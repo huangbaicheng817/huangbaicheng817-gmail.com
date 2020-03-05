@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         PandaLive Adult Unlocked (without login)
+// @name         PandaLive Adult Unlocked (without logging in)
 // @namespace    http://tampermonkey.net/
 // @version      0.2
 // @description  Just for fun!
