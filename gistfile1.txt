@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         PandaLive Adult Unlocked
+// @name         PandaLive Adult Unlocked (without login)
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  Just for fun!
-// @author       t4si
+// @author       t4si, K1a
 // @match        https://www.pandalive.co.kr/live/play/*
 // @grant        none
 // ==/UserScript==
