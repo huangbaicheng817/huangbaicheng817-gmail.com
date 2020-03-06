@@ -14,7 +14,7 @@
 
     function check() {
         mediaAdult = "N";
-        if (userInfo != undefined && !cracked && playList[playSizeCode] != undefined) {
+        if (userInfo != undefined && !cracked && playSizeCode != undefined && playList[playSizeCode] != undefined && player != undefined) {
             unlockAdult()
         } else {
             setTimeout(function() {
